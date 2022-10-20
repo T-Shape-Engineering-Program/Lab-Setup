@@ -2,6 +2,11 @@
 
 These are hands-on resources to help you learn Cloud Native development with Docker and Kubernetes.
 
+# Slides
+```
+https://drive.google.com/drive/folders/10_pq-0FR8rIms8ltlGrNW0O3NNr3yEvO?usp=sharing
+```
+
 # Running a Local Kubernetes Cluster
 
 Kubernetes clusters can have hundreds of nodes in production, but you can run a single-node cluster on your laptop and it works in the same way.
