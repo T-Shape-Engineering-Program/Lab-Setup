@@ -3,9 +3,8 @@
 These are hands-on resources to help you learn Cloud Native development with Docker and Kubernetes.
 
 # Slides
-```
-https://drive.google.com/drive/folders/10_pq-0FR8rIms8ltlGrNW0O3NNr3yEvO?usp=sharing
-```
+
+https://drive.google.com/drive/folders/10_pq-0FR8rIms8ltlGrNW0O3NNr3yEvO?usp=sharing 
 
 # Running a Local Kubernetes Cluster
 
